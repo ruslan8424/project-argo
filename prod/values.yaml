@@ -23,4 +23,4 @@ ingress:
   tls:
     - secretName: prod-artemis-tls
       hosts:
-        - prod-artemis.stolisto.com
+        - stolisto.com
